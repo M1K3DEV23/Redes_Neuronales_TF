@@ -6,6 +6,9 @@
 # website: http://jupyter.org/
 
 model/
+./model/
+logs/
+./logs/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
